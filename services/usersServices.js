@@ -50,9 +50,18 @@ async function updateSubscription(req, next) {
     }
 }
 
+async function updateAvatar(_id, avatarURL, next) {
+    try {
+        return User.findByIdAndUpdate(_id, avatarURL, {new: true});
+    } catch (e) {
+        next(e);
+    }
+}
+
 export default {
     registerUser,
     loginUser,
     logOutUser,
-    updateSubscription
+    updateSubscription,
+    updateAvatar
 }
