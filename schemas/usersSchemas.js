@@ -6,7 +6,8 @@ export const registerShm = Joi.object({
     password: Joi.string().required(),
     subscription: Joi.string(),
     avatarURL: Joi.string(),
-    token: Joi.string()
+    token: Joi.string(),
+    verificationToken: Joi.string().required()
 });
 
 export const loginShm = Joi.object({
