@@ -1,0 +1,4 @@
+tmp/*
+!tmp/.gitkeeper
+public/avatars/*
+!public/avatars/.gitkeep
