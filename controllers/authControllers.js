@@ -27,7 +27,7 @@ export const userRegister = async (req, res, next) => {
 
     mail.sendMail({
       to: email,
-      from: "sopinskaya10475@gmail.com",
+      from: "irishanykolaevna@gmail.com",
       subject: "Welcome to Phone book",
       html: `To confirm you email please click on <a href="http://localhost:3000/api/users/verify/${verificationToken}">link</a>`,
       text: `To confirm you email please open the link http://localhost:3000/api/users/verify/${verificationToken}`,
@@ -192,7 +192,7 @@ export const resendVerifyEmail = async (req, res, next) => {
 
     mail.sendMail({
       to: email,
-      from: "sopinskaya10475@gmail.com",
+      from: "irishanykolaevna@gmail.com",
       subject: "Welcome to Phone book",
       html: `To confirm you email please click on <a href="http://localhost:3000/api/users/verify/${user.verificationToken}">link</a>`,
       text: `To confirm you email please open the link http://localhost:3000/api/users/verify/${user.verificationToken}`,
