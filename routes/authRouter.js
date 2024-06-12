@@ -1,14 +1,44 @@
 import express from "express";
-import validateBody from "../helpers/validateBody.js";
-import {validateJWT} from "../helpers/validateJWT.js";
-import * as ctrl from "../controllers/authControllers.js";
-import {registerShm, loginShm} from "../schemas/usersSchemas.js";
+import {
+  updateSubscr,
+  userCurrent,
+  userLogin,
+  userLogout,
+  userRegister,
+  changeAvatar,
+  verifyEmail,
+  resendVerifyEmail,
+} from "../controllers/authControllers.js";
 
-const authRouter = express.Router();
+import {
+  userRegistrationSchema,
+  loginSchema,
+  updateSubscrSchema,
+  emailSchema,
+} from "../schemas/usersSchemas.js";
+import { validateBody } from "../middlewares/validateBody.js";
+import auth from "../middlewares/auth.js";
+import uploadMiddleware from "../middlewares/upload.js";
 
-authRouter.post("/register", validateBody(registerShm), ctrl.register);
-authRouter.post("/login", validateBody(loginShm), ctrl.login);
-authRouter.post("/logout", validateJWT, ctrl.logOut);
+const router = express.Router();
 
+// signup
+router.post("/register", validateBody(userRegistrationSchema), userRegister);
 
-export default authRouter;
+//verify
+router.get("/verify/:verificationToken", verifyEmail);
+router.post(
+  "/verify", validateBody(emailSchema),
+  resendVerifyEmail
+);
+
+//signin
+router.post("/login", validateBody(loginSchema), userLogin);
+router.post("/logout", auth, userLogout);
+router.get("/current", auth, userCurrent);
+router.patch("/current", auth, validateBody(updateSubscrSchema), updateSubscr);
+
+//avatar
+router.patch("/avatars", auth, uploadMiddleware.single("avatar"), changeAvatar);
+
+export default router;

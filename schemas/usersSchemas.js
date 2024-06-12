@@ -1,20 +1,23 @@
 import Joi from "joi";
 
+const subscrList = ["starter", "pro", "business"];
 
-export const registerShm = Joi.object({
+export const userRegistrationSchema = Joi.object({
+    password: Joi.string().required().min(8),
     email: Joi.string().email().required(),
-    password: Joi.string().required(),
-    subscription: Joi.string(),
-    avatarURL: Joi.string(),
-    token: Joi.string(),
-    verificationToken: Joi.string().required()
+    subscription: Joi.string().valid(...subscrList),
+    token: Joi.string()
 });
 
-export const loginShm = Joi.object({
-    email: Joi.string().email().required(),
-    password: Joi.string().required(),
+export const loginSchema = Joi.object({
+  email: Joi.string().email().required(),
+  password: Joi.string().min(8).required(),
 });
 
-export const sbscrUpdateShm = Joi.object({
-    subscription: Joi.string().valid("starter", "pro", "business").required(),
+export const updateSubscrSchema = Joi.object({
+  subscription: Joi.string().valid(...subscrList).required(),
+});
+
+export const emailSchema = Joi.object({
+  email: Joi.string().email().required(),
 });
