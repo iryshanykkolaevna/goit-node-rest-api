@@ -4,26 +4,25 @@
 
 
 
-
 <h3 align="left">Основні функції додатку:</h3>
-<p align="left">- створення нового акаунта або вхід до існуючого.</p>
- <p align="left">- додавати/редагувати/видаляти кількість випитої води за день.</p>
-<p align="left">- налаштування щоденних цілей споживання води.</p>
-<p align="left">- відслідковувати прогрес випитої води за день та за місяць</p>
+<p align="left">- створення нового акаунта або вхід до існуючого;</p>
+ <p align="left">- додавати/редагувати/видаляти кількість випитої води за день;</p>
+<p align="left">- налаштування щоденних цілей споживання води;</p>
+<p align="left">- відслідковувати прогрес випитої води за день та за місяць;</p>
 <p align="left">- отримання нагадувань про необхідність випити воду.</p>
 
 <h3 align="left">Завантажили відстежувач? Ваші наступні кроки:</h3>
 
-  <p align="left"> -створіть новий акаунт, ввівши свою електронну адресу та пароль.</p>
-<p align="left"> -увійдіть до системи, використовуючи свої облікові дані.</p>
-<p align="left">-натисніть кнопку "Add water" і введіть кількість випитої води.</p>
+  <p align="left"> -створіть новий акаунт, ввівши свою електронну адресу та пароль;</p>
+<p align="left"> -увійдіть до системи, використовуючи свої облікові дані;</p>
+<p align="left">-налаштуйте свій профіль, додавши та/або змінивши персональні дані та фотографію;</p>
+<p align="left">-натисніть кнопку "Add water" і введіть кількість випитої води;</p>
    <p align="left">-переглядайте свою щоденну, тижневу та місячну статистику.</p>
 
- <h3 align="left">Над проєктом працювали:</h3>
-<p align="left">TeamLead - Анна Ричкова</p>
-<p align="left">ScrumMaster - Наталія Боднарчук</p>
-<p align="left"> Developers:Богдан Приступа, Олександр Титик, Анна Ричкова, Олена Колос, Ельга Лущик, Андрій Трубчанінов, Євгенія Мушик, Наталія Боднарчук, Петро Свіст, Ірина Щербановська, Юрій Шукан</p>
 
+
+
+<p>Цей проєкт написаний на TypeScript у поєднанні з React JS для фронтенду та Node.js для бекенду, комбінуючи ці технології для ефективної та надійної розробки.</p>
 
 ## Технології, які використовувались
 
@@ -31,11 +30,19 @@
 `TypeScript` `React` `ReduxToolkit` `ReduxPersist` `Axios` `HTML/CSS` `Formik`
 `React Spring` `Swiper` `Clsx` `Chart.js` `i18next`
 
+
+
 **Back-end**<br />
 `Node.js` `Express` `Mongoose` `Swagger` `Cloudinary` `Joi` `Nodemailer` `MongoDB` `Google OAuth`
 
-<h3 align="left"></h3> <p align="left"> <a href=https://www.figma.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/figma/figma-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mongodb.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://redux.js.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg alt="android" width="40" height="40"/> </a> <a href=https://spring.io/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/springio/springio-icon.svg alt="android" width="40" height="40"/> </a> 
- <a href=https://www.typescriptlang.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt="android" width="40" height="40"/> </a> </p>
+
+
+  <h3 align="left">Над проєктом працювали:</h3>
+<p align="left">TeamLead - Анна Ричкова</p>
+<p align="left">ScrumMaster - Наталія Боднарчук</p>
+<p align="left"> Developers:Богдан Приступа, Олександр Титик, Анна Ричкова, Олена Колос, Ельга Лущик, Андрій Трубчанінов, Євгенія Мушик, Наталія Боднарчук, Петро Свіст, Ірина Щербановська, Юрій Шукан</p>
+
+
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20Пити%20воду%20-%20корисно,%20а%20з%20AquaTrack%20-%20це%20зручно!%20&text2=&width=900&height=400)
 
