@@ -6,9 +6,9 @@
 ### Основні функції додатку:
 
 * створення нового акаунта або вхід до існуючого;
-* додавати/редагувати/видаляти кількість випитої води за день;
+* можливість додавати/редагувати/видаляти кількість випитої води за день;
 * налаштування щоденних цілей споживання води;
-* відслідковувати прогрес випитої води за день та за місяць;
+* відслідковування прогресу випитої води за день та за місяць;
 * отримання нагадувань про необхідність випити воду.
 
 ### Завантажили відстежувач? Ваші наступні кроки:
@@ -19,16 +19,12 @@
 * натисніть кнопку "Add water" і введіть кількість випитої води;
 * переглядайте свою щоденну, тижневу та місячну статистику.
 
-
 ### Технології, які використовувались:
-
 
 **Front-end**<br />
  
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=social&logo=html5&logoColor=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=social&logo=CSS3&logoColor=%231572B6)
   ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=social&logo=JavaScript&logoColor=%23F7DF1E)  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=social&logo=React&logoColor=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=social&logo=Axios&logoColor=%235A29E4)
-
-
 
 
 **Back-end**<br />  
@@ -40,9 +36,6 @@
 ![Static Badge](https://img.shields.io/badge/Nodemailer-%2330B980?style=social&logo=minutemailer&logoColor=%2330B980)
 
 
-
-
-
 **Utilites**<br />
 
 ![Static Badge](https://img.shields.io/badge/Webpark-webpack?style=social&logo=webpack&logoColor=webpack) 
@@ -51,8 +44,6 @@
 ![Static Badge](https://img.shields.io/badge/Prettier-%23F7B93E?style=social&logo=prettier&logoColor=%23F7B93E) 
 ![Static Badge](https://img.shields.io/badge/DBCompass-%234285F4?style=social&logo=googlecloudcomposer&logoColor=%234285F4)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=social&logo=postman&logoColor=%23FF6C37)
-
-
 
 
   ### Над проєктом працювала команда ***QuantumSoft:***
