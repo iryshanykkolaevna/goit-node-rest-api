@@ -55,10 +55,10 @@
 
 #### :link: Link to Back-end [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github)](https://github.com/luzhnyak/aqua-backend)
 
-  ### Над проєктом працювала команда ***QuantumSoft:***
-<p align="left"><em><strong>TeamLead -</strong></em> <em>Анна Ричкова</em></p>
-<p align="left"><em><strong>ScrumMaster -</strong></em> <em> Наталія Боднарчук</em></p>
-<p align="left"> <em><strong>Developers:</strong></em> <em>Богдан Приступа, Олександр Титик, Анна Ричкова, Олена Колос, Ельга Лущик, Андрій Трубчанінов, Євгенія Мушик, Наталія Боднарчук, Петро Свіст, Юрій Шукан, Ірина Щербановська</em></p>
+  ### Над проєктом працювала команда ***:sweat_drops:QuantumSoft:sweat_drops::***
+<p align="left"><em><strong> :shipit:TeamLead -</strong></em> <em>Анна Ричкова</em></p>
+<p align="left"><em><strong>:sunglasses:ScrumMaster -</strong></em> <em> Наталія Боднарчук</em></p>
+<p align="left"> <em><strong>:smirk:Developers:</strong></em> <em>Богдан Приступа, Олександр Титик, Анна Ричкова, Олена Колос, Ельга Лущик, Андрій Трубчанінов, Євгенія Мушик, Наталія Боднарчук, Петро Свіст, Юрій Шукан, Ірина Щербановська</em></p>
 
 
 
