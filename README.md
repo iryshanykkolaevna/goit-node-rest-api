@@ -43,7 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/DBCompass-%234285F4?style=social&logo=googlecloudcomposer&logoColor=%234285F4)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=social&logo=postman&logoColor=%23FF6C37) 
 
-### Link to Back-end [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github)](https://github.com/luzhnyak/aqua-backend)
+#### :link: Link to Back-end [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github)](https://github.com/luzhnyak/aqua-backend)
 
   ### Над проєктом працювала команда ***QuantumSoft:***
 <p align="left"><em><strong>TeamLead -</strong></em> <em>Анна Ричкова</em></p>
