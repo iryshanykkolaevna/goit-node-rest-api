@@ -21,22 +21,20 @@
 
 ### Технології, які використовувались:
 
-**Front-end**<br />
+**:large_blue_diamond:Front-end**<br /> 
  
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=social&logo=html5&logoColor=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=social&logo=CSS3&logoColor=%231572B6)
   ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=social&logo=JavaScript&logoColor=%23F7DF1E)  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=social&logo=React&logoColor=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=social&logo=Axios&logoColor=%235A29E4)
 
 
-**Back-end**<br />  
-
+**:large_blue_diamond:Back-end**<br />  
 ![Static Badge](https://img.shields.io/badge/Noda.js-%235FA04E?style=social&logo=nodedotjs&logoColor=%235FA04E) 
 ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=social&logo=express&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Mongodb-%2347A248?style=social&logo=mongodb&logoColor=%2347A248)
 ![Static Badge](https://img.shields.io/badge/Mongoose-%23F04D35?style=social&logo=mongoosedotws&logoColor=%23F04D35) 
-![Static Badge](https://img.shields.io/badge/Nodemailer-%2330B980?style=social&logo=minutemailer&logoColor=%2330B980)
 
 
-**Utilites**<br />
+**:large_blue_diamond:Utilites**<br />
 
 ![Static Badge](https://img.shields.io/badge/Webpark-webpack?style=social&logo=webpack&logoColor=webpack) 
 ![Static Badge](https://img.shields.io/badge/ELSint-%234B32C3?style=social&logo=eslint&logoColor=%234B32C3)
@@ -45,6 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/DBCompass-%234285F4?style=social&logo=googlecloudcomposer&logoColor=%234285F4)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=social&logo=postman&logoColor=%23FF6C37)
 
+**Link to Back-end** [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github)](https://github.com/luzhnyak/aqua-backend)
 
   ### Над проєктом працювала команда ***QuantumSoft:***
 <p align="left"><em><strong>TeamLead -</strong></em> <em>Анна Ричкова</em></p>
