@@ -11,7 +11,7 @@
 * відслідковування прогресу випитої води за день та за місяць;
 * отримання нагадувань про необхідність випити воду.
 
-### :sweat_drops:Завантажили відстежувач? Ваші наступні кроки:
+### :iphone:Завантажили відстежувач? Ваші наступні кроки:
 
 * створіть новий акаунт, ввівши свою електронну адресу та пароль;
 * увійдіть до системи, використовуючи свої облікові дані;
@@ -24,7 +24,9 @@
 **:large_blue_diamond:Front-end**<br /> 
  
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=social&logo=html5&logoColor=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=social&logo=CSS3&logoColor=%231572B6)
-  ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=social&logo=JavaScript&logoColor=%23F7DF1E)  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=social&logo=React&logoColor=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=social&logo=Axios&logoColor=%235A29E4) 
+  ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=social&logo=JavaScript&logoColor=%23F7DF1E)  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=social&logo=React&logoColor=%2361DAFB) ![Static Badge](https://img.shields.io/badge/Axios-%235A29E4?style=social&logo=Axios&logoColor=%235A29E4) ![Static Badge](https://img.shields.io/badge/and%20other-%23458CF5?style=social&logo=awesomelists&logoColor=%23222222)
+
+
 
 
 **:large_blue_diamond:Back-end**<br />  
@@ -32,6 +34,9 @@
 ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=social&logo=express&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Mongodb-%2347A248?style=social&logo=mongodb&logoColor=%2347A248)
 ![Static Badge](https://img.shields.io/badge/Mongoose-%23F04D35?style=social&logo=mongoosedotws&logoColor=%23F04D35) 
+![Static Badge](https://img.shields.io/badge/and%20other-%23458CF5?style=social&logo=awesomelists&logoColor=%23222222)
+
+
 
 
 **:large_blue_diamond:Utilites**<br />
@@ -42,6 +47,10 @@
 ![Static Badge](https://img.shields.io/badge/Prettier-%23F7B93E?style=social&logo=prettier&logoColor=%23F7B93E) 
 ![Static Badge](https://img.shields.io/badge/DBCompass-%234285F4?style=social&logo=googlecloudcomposer&logoColor=%234285F4)
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=social&logo=postman&logoColor=%23FF6C37) 
+![Static Badge](https://img.shields.io/badge/and%20other-%23458CF5?style=social&logo=awesomelists&logoColor=%23222222)
+
+
+
 
 #### :link: Link to Back-end [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=github)](https://github.com/luzhnyak/aqua-backend)
 
